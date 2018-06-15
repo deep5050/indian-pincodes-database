@@ -3,7 +3,7 @@
 <Document>
   <NetworkLink>
     <Link>
-      <href>https://raw.githubusercontent.com/deep5050/indian-pincodes-database/master/cta.kml</href>
+      <href>https://raw.githubusercontent.com/deep5050/indian-pincodes-database/master/live.kml</href>
       <refreshMode>onInterval</refreshMode>
 	<refreshInterval>5</refreshInterval>
     </Link>
