@@ -3,7 +3,7 @@
 <Document>
   <NetworkLink>
     <Link>
-      <href>every10.kml</href>
+      <href>https://raw.githubusercontent.com/deep5050/indian-pincodes-database/master/cta.kml</href>
       <refreshMode>onInterval</refreshMode>
 	<refreshInterval>10</refreshInterval>
     </Link>
