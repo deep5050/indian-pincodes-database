@@ -4,7 +4,7 @@
   <NetworkLink>
     <Link>
       <href>https://raw.githubusercontent.com/deep5050/indian-pincodes-database/master/live.kml</href>
-      <refreshMode>onInterval</refreshMode>
+      <refreshMode>onChange</refreshMode>
 	<refreshInterval>5.0</refreshInterval>
     </Link>
   </NetworkLink>
