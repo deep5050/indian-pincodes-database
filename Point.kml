@@ -5,7 +5,7 @@
     <Link>
       <href>https://raw.githubusercontent.com/deep5050/indian-pincodes-database/master/cta.kml</href>
       <refreshMode>onInterval</refreshMode>
-	<refreshInterval>10</refreshInterval>
+	<refreshInterval>5</refreshInterval>
     </Link>
   </NetworkLink>
 </Document>
