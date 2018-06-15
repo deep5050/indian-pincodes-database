@@ -25,7 +25,7 @@
         <description>Launch location was ... at ...</description>
         <Point>
           <altitudeMode>absolute</altitudeMode>
-          <coordinates>-0.092096,52.250872,55</coordinates>
+          <coordinates>-0.092096,52.250872</coordinates>
        </Point>
       </Placemark>
 
@@ -36,17 +36,17 @@
         <extrude>1</extrude>
         <altitudeMode>absolute</altitudeMode>
         <coordinates>
-  -0.092096, 52.250872,   55
-  -0.089721, 52.252995,  166
-  -0.082192, 52.258184,  379
-  -0.072153, 52.263721,  597
-  -0.059924, 52.269104,  819
-  -0.030587, 52.277540, 1279
-   0.002241, 52.283403, 1761
-   0.035656, 52.288259, 2269
-   0.069353, 52.292391, 2803
-   0.102276, 52.297056, 3368
-   0.132938, 52.303864, 3970
+  -0.092096, 52.250872
+  -0.089721, 52.252995
+  -0.082192, 52.258184
+  -0.072153, 52.263721
+  -0.059924, 52.269104
+  -0.030587, 52.277540
+   0.002241, 52.283403
+   0.035656, 52.288259
+   0.069353, 52.292391
+   0.102276, 52.297056
+   0.132938, 52.303864
         </coordinates> 
      </LineString>
     </Placemark>
@@ -57,7 +57,7 @@
         <description>Current Position is ... at ...</description>
         <Point>
           <altitudeMode>absolute</altitudeMode>
-          <coordinates>   0.132938, 52.303864, 3970
+          <coordinates>   0.132938, 52.303864
           </coordinates>
         </Point>
       </Placemark>
