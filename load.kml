@@ -3,9 +3,9 @@
 <Document>
   <NetworkLink>
     <Link>
-      <href>https://raw.githubusercontent.com/deep5050/indian-pincodes-database/master/live.kml</href>
+      <href>https://raw.githubusercontent.com/deep5050/indian-pincodes-database/master/whale_shark.kml</href>
       <refreshMode>onInterval</refreshMode>
-	<refreshInterval>1.0</refreshInterval>
+	<refreshInterval>4.0</refreshInterval>
     </Link>
   </NetworkLink>
 </Document>
